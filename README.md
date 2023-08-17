@@ -1,15 +1,15 @@
 # Laravel Admin Panel
 
-Türkçe kurulum için <a href="https://github.com/hsdmr/laravel-admin/blob/main/README-tr.md">burayı</a> tıklayın.
+Git Clone <a href="https://github.com/creativehabib/laravel-admin/blob/main/README-tr.md">Visit</a> Here.
 
 ## Requirements
 
 To run the project, you must install <a href="https://getcomposer.org/">Composer</a> on your computer and meet the following conditions.
 
-- Laravel >= 8.x
-- PHP >= 7.4
+- Laravel >= 10.x
+- PHP >= 8.1
 
-## Download with zip file
+## Download with a zip file
 
 - Download the zip file of the project to your computer with the green code button.
 - Extract the file from the zip.
@@ -22,7 +22,7 @@ If git is not installed on your computer, install the appropriate one for your o
 - Open the terminal screen and paste the code below and run it.
 
   ```
-  git clone https://github.com/hsdmr/laravel-admin.git
+  git clone https://github.com/creativehabib/laravel-admin.git
   ```
 ## Installation
 
